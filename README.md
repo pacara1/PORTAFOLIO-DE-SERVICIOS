@@ -1,7 +1,7 @@
 # PORTAFOLIO-DE-SERVICIOS
 SERVICIOS DE DESARROLLO DE SOFTWARE 
 ## Sobre mí
-Soy [Tu Nombre], un desarrollador freelance especializado en [tu especialidad].
+Soy Paolo Camacho, un desarrollador freelance especializado en extración, transformación y analitica datos en Python.
 
 ## Servicios
 - **Desarrollo Web:** Creación de sitios web personalizados.
