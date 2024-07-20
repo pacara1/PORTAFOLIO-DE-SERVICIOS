@@ -20,4 +20,4 @@ Descripción breve del proyecto y los resultados obtenidos.
 
 ## Contacto
 - **Email:** [pacara.1@gmail.com](mailto:pacara.1@gmail.com)
-- **LinkedIn:** [linkedin.com/in/Paolo_Camacho](https://www.linkedin.com/in/Paolo_Camacho)
+- **LinkedIn:** [linkedin.com/in/PaoloCamacho](https://www.linkedin.com/in/PaoloCamacho)
