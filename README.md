@@ -19,5 +19,5 @@ Descripción breve del proyecto y los resultados obtenidos.
 > "Gran trabajo, muy profesional y entregado a tiempo." - Cliente A
 
 ## Contacto
-- **Email:** [pacara.1@gmail.com](mailto:pacara.1@gmail.com)
-- **LinkedIn:** [linkedin.com/in/PaoloCamacho](https://www.linkedin.com/in/PaoloCamacho)
+- **Email:** [tu.email@dominio.com](mailto:tu.email@dominio.com)
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://www.linkedin.com/in/tuusuario)
