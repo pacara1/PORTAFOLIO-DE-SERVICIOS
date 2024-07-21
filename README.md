@@ -1,12 +1,12 @@
 # PORTAFOLIO-DE-SERVICIOS
 SERVICIOS DE DESARROLLO DE SOFTWARE 
 ## Sobre mí
-Soy Paolo Camacho, un desarrollador freelance especializado en extración, transformación y analitica datos en Python.
+Soy Paolo Camacho, un desarrollador freelance especializado en .
 
 ## Servicios
 - **Desarrollo Web:** Creación de sitios web personalizados.
 - **Aplicaciones Móviles:** Desarrollo de apps para iOS y Android.
-- **Consultoría Técnica:** Asesoramiento en tecnologías de desarrollo.
+- **Programación en p:** extración, transformación y analitica datos en Python.
 
 ## Proyectos Destacados
 ### [Proyecto 1](enlace al repositorio)
